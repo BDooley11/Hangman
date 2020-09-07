@@ -1,1 +1,1 @@
-# Hangman
+Basic Hangman game made with python.
